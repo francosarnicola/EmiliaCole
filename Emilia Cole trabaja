@@ -1,0 +1,12 @@
+body {
+    font-family: 'Open sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+background-image: url(./emiliaColeMateriales/img/music-top.jpg);
+background-repeat: no-repeat;
+background-position: top;
+background-size: 100%;
+
+}
+ 
+

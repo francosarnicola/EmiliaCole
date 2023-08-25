@@ -1,0 +1,19 @@
+body {
+    font-family: 'Open sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+    background-image: url(./emiliaColeMateriales/img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: 89%;
+    background-position: top right;
+    background-attachment: scroll;
+}
+.titulo {
+    margin-top: 300px;
+}
+
+.titulo2 {
+    margin-top: 250px;
+    font-size: 60px;
+    background-color: rgba(250, 250, 250, .3);
+}
